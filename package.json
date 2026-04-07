@@ -1,5 +1,5 @@
 {
-  "name": "@workspace/devops-hub",
+  "name": "devops-hub",
   "version": "1.0.0",
   "private": true,
   "type": "module",
